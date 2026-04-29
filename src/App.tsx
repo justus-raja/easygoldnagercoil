@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { MessageCircle } from "lucide-react";
 
-import { C, NAV_LINKS, wa, scrollTo } from "./Constants";
+import { C, NAV_LINKS, wa } from "./Constants";
 import GlobalStyles from "./Globalstyles";
 import { MagBtn } from "./Ui";
 import Navbar from "./components/Navbar";
